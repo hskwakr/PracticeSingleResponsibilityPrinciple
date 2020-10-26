@@ -6,7 +6,7 @@
 
         public ActionResult Create(OrderCreateRequest request)
         {
-            if (!ModuleState.IsValid)
+            if (!ModelState.IsValid)
             {
                 // View data preparations
                 return View();
