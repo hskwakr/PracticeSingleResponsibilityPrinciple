@@ -4,7 +4,12 @@ This sample is practiced using the article of  [Single Responsibility Principle:
 ## Structure
 - Before directory  
 The code samples before applying the principal. 
-We focused an `OrderController` class. 
+I focused an `OrderController` class.  
+That class has many jobs.  
+  > For every little change, the developer needs to change the entire controller’s code. 
 
 - After directory  
 The code samples after applying the principal.
+  - Apply SRP  
+    > The class Controllers should only control the overall process, and not actually house every bit of logic of the process.  
+  
