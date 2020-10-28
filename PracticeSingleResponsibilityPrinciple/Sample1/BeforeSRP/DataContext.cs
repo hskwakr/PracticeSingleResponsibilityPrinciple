@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PracticeSingleResponsibilityPrinciple.Sample1.Before
+namespace PracticeSingleResponsibilityPrinciple.Sample1.BeforeSRP
 {
     /// <summary>
     /// This class is temporary class to run the sample code.

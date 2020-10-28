@@ -1,4 +1,4 @@
-﻿namespace PracticeSingleResponsibilityPrinciple.Sample1.Before
+﻿namespace PracticeSingleResponsibilityPrinciple.Sample1.BeforeSRP
 {
     public class OrderController
     {

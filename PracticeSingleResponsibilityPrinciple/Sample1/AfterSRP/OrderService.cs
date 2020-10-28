@@ -1,4 +1,4 @@
-﻿namespace PracticeSingleResponsibilityPrinciple.Sample1.After.ApplySRP
+﻿namespace PracticeSingleResponsibilityPrinciple.Sample1.AfterSRP
 {
     public class OrderService
     {
